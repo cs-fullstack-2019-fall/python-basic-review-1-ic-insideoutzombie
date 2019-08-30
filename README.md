@@ -3,16 +3,16 @@
 ### Create a ```main``` function and a function for each exercise. Call each exercise from ```main```
 
 1. Variables:
-- Define a variable called 'season' and assign it your favorite season as a String. Print 'May favorite season is Fall' (use your favorite season value)
+- Define a variable called 'season' and assign it your favorite season as a String. Print 'My favorite season is Fall' (use your favorite season value)
 
 2. Loop:
-- Write a loop that prints backwards from 10 - 1, then prints 'LIFTOFF!'
+- Write a loop that prints backwards from 10 to 1, then prints 'LIFTOFF!'
 
 3. Conditionals:
-- Create 3 Strings containing movie names of your choice. List the 3 choices and prompt the user to select their favorite movie by entering the corresponding number. Once the User makes a selection, print ```You selected WHATEVER_MOVIE_they_selected```
+- Create 3 Strings containing movie names of your choice. List the 3 choices and prompt the user to select their favorite movie by entering the Movie's corresponding index number. Once the User makes a selection, print ```You selected WHATEVER_MOVIE_they_selected```
 
 4. Functions:
-- Write a function that accepts a numeric grade as a parameter. The function should return the appropriate letter grade based on the value passed in (10 point scale). If an invalid grade passed in (e.g. > 100 or < 0) return ```invalid grade```. Prompt the User for a grade value. Call your function and print the returned grade or error message in the console.
+- Write a function that accepts a numeric grade as a parameter. The function should return the appropriate letter grade based on the value passed in (10 point scale). If an invalid grade passed in (e.g. > 100 or < 0) return ```invalid grade```. Prompt the User for a grade value. Call your function and print the returned grade or an error message if entry invalid, in the console.
 
 5. Arrays:
 
